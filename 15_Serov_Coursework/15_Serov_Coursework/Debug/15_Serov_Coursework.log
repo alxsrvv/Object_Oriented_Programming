@@ -1,0 +1,6 @@
+﻿  Furniture_workshop.cpp
+  Main.cpp
+D:\4 semester\Object-oriented programming\Labs\15_Serov_Coursework\15_Serov_Coursework\Main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sewing_workshop.cpp
+  Generating Code...
+  15_Serov_Coursework.vcxproj -> D:\4 semester\Object-oriented programming\Labs\15_Serov_Coursework\Debug\15_Serov_Coursework.exe
