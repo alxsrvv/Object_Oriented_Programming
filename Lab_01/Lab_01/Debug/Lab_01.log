@@ -1,0 +1,5 @@
+﻿  House.cpp
+  Lab_01.cpp
+D:\4 semester\Object-oriented programming\Labs\Lab_01\Lab_01\Lab_01.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Lab_01.vcxproj -> D:\4 semester\Object-oriented programming\Labs\Lab_01\Debug\Lab_01.exe

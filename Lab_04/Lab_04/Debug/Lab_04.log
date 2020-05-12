@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\4 semester\Object-oriented programming\Labs\Lab_04\Lab_04\Main.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Simple_fraction.cpp
+  Generating Code...
+  Lab_04.vcxproj -> D:\4 semester\Object-oriented programming\Labs\Lab_04\Debug\Lab_04.exe
