@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\4 semester\Object-oriented programming\Labs\Lab_06\Lab_06\Main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\4 semester\Object-oriented programming\Labs\Lab_06\Lab_06\STL_FIFO_template.h(53): warning C4715: 'Queue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::peek': not all control paths return a value
+D:\4 semester\Object-oriented programming\Labs\Lab_06\Lab_06\STL_FIFO_template.h(53): warning C4715: 'Queue<int>::peek': not all control paths return a value
+  Lab_06.vcxproj -> D:\4 semester\Object-oriented programming\Labs\Lab_06\Debug\Lab_06.exe

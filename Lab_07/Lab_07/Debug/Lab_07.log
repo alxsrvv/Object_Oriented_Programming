@@ -1,0 +1,16 @@
+﻿  Exception.cpp
+  Main.cpp
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Main.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Matrix.cpp
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(15,23): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(18,23): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(19,27): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(71,27): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(72,31): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(98,27): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(99,31): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(111,27): warning C4018: '<': signed/unsigned mismatch
+D:\4 semester\Object-oriented programming\Labs\Lab_07\Lab_07\Matrix.cpp(113,31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab_07.vcxproj -> D:\4 semester\Object-oriented programming\Labs\Lab_07\Debug\Lab_07.exe
